@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Halli und Hallo and Welcome to Christian Schuler's Personal Page
+title: Welcome to Anran Wang's Personal Page
 ---
 
 {% include components/intro.md %}
@@ -12,10 +12,10 @@ title: Halli und Hallo and Welcome to Christian Schuler's Personal Page
 <hr />
 
 ### Recent Posts
-
+<!-- 
 {% for post in site.posts limit:2 %}
 {% include components/post-card.html %}
-{% endfor %}
+{% endfor %} -->
 
 <!-- ### News about me
 
