@@ -16,8 +16,7 @@ narrow: false
 		  <tbody>
 			  <tr>
 			    <td>
-			    <img src="/docs/images/Research-InterestMap.png" class="img-fluid img-thumbnail" alt="Interests-Concept-Map">
-			    Concept-Map of my interests</td>
+			    Things I like: formal methods; table tennis; detective novels; don't starve together.</td>
 			  </tr>
 		  </tbody>
 		</table>   

@@ -8,11 +8,11 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            Christian Schuler's Personal Page # Site title
-name:             Christian Schuler              # Your name
-affiliation:      NLP-Enthusiast and Student at UHH              # Your name
-avatar:           /docs/pictures/profile-2023-christian.png   # Path to an avatar image
-author:           Christian Schuler
+title:            Anran Wang's Personal Page # Site title
+name:             Anran Wang              # Your name
+affiliation:      Technical University of Munich              # Your name
+avatar:           /docs/pictures/profileimage.png   # Path to an avatar image
+author:           Anran Wang
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
 #baseurl: "/Users/doofnase/My_GitHub/christianschuler8989.github.io/"
@@ -26,7 +26,7 @@ plugins:
 
 # Disqus Comments
 disqus:
-    shortname: christianschuler
+    shortname: anranwang
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
 include: ["_pages", "_portfolio", "_resources"]

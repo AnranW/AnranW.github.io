@@ -1,25 +1,30 @@
 - caption: GitHub
-  href: https://github.com/christianschuler8989
+  href: https://github.com/AnranW
   icon: entypo/github-with-circle.svg
 
 - caption: Email
-  href: mailto:christianschuler8989@gmail.com
+  href: mailto:wang-anran@hotmail.com
   icon: entypo/email.svg
 
+# - caption: mytischtennis.de
+#   href: 
+#   icon: entypo/orcid_24x24.svg
+
+
 - caption: ORCID
-  href: http://orcid.org/0000-0002-2686-6350
+  href: 
   icon: entypo/orcid_24x24.svg
 
 - caption: Google Scholar
-  href: https://scholar.google.com/citations?user=fDRwBrEAAAAJ&hl=en
+  href: 
   icon: entypo/graduation-cap.svg
 
 - caption: Research Gate
-  href: https://www.researchgate.net/profile/Christian-Schuler
+  href: 
   icon: entypo/shield.svg
 
 - caption: LinkedIn
-  href: https://www.linkedin.com/in/christian-schuler-59090a177/
+  href: 
   icon: entypo/linkedin-with-circle.svg
 
 
@@ -28,9 +33,9 @@
 #  icon: entypo/stack-overflow.svg
 #https://stackoverflow.com/story/USERNAME
 
-- caption: Twitter
-  href: https://www.twitter.com/christians89898
-  icon: entypo/twitter-with-circle.svg
+# - caption: Twitter
+#   href: 
+#   icon: entypo/twitter-with-circle.svg
 
 #- caption: YouTube
 #  href: https://www.youtube.com/channel/CHANNELID
@@ -40,12 +45,12 @@
 #
 #   icon: entypo/Google_Photos_icon.svg
 
-- caption: FOAF
-  href: foaf.rdf
-  icon: entypo/rdf.svg
+# - caption: FOAF
+#   href: foaf.rdf
+#   icon: entypo/rdf.svg
 
-- caption: Hamburg, Germany
-  href: https://maps.app.goo.gl/yq77gWnJt8jJeEZg7
+- caption: Munich, Germany
+  href: 
   icon: entypo/location-pin.svg
 
 #- caption: RSS

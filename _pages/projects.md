@@ -59,31 +59,11 @@ title: Projects
 					</p>
 			    <p>
   			      <img src="/docs/pictures/proj-2023-kurdish-dialectmapping-500x333.png" class="img-fluid img-thumbnail" alt="DialectMapping">
-			    		Together with my dear friend Raman, I have been working on creating an interactive map of the Kurdish dialects. This map is still very much work-in-progress, but it already seems quite promising! :D
+			    		Together with my dear friends Raman and Christian, I have been working on creating an interactive map of the Kurdish dialects. This map is still very much work-in-progress, but it already seems quite promising! :D
 					</p>
 			    </td>
 			  </tr>
 			  
-			  <tr>
-		      <td class="w-25" rowspan="3">
-			      <img src="/docs/images/2023-Logo-KobaniAnalysis.png" class="img-fluid img-thumbnail" alt="KobaniAnalysis-Logo">
-		      </td>
-		      <td><a href="https://github.com/Low-ResourceDialectology/KobaniAnalysis" target="_blank">Kobani Analysis</a></td>
-		    </tr>
-		      <tr>
-			    <td>2023 - ongoing</td>
-			  </tr>
-			  <tr>
-			    <td>
-			    <p>
-			    		Analysis of Phonology and Morphology in the Kobani Dialect.
-					</p>
-			    <p>
-			    	<img src="/docs/pictures/proj-2023-kurdish-kobanianalysis-500x333.png" class="img-fluid img-thumbnail" alt="KobaniAnalysis">
-		    		Raman and I have been working on analysing the phonology and morphology in the Kobani dialect of the Kurdish language. It has been absolutely amazing, how much we have been learning from each other while working on this project! :D
-					</p>
-			    </td>
-			  </tr>
 			  			  
 			  <tr>
 		      <td class="w-25" rowspan="3">
@@ -97,21 +77,8 @@ title: Projects
 			  <tr>
 			    <td>
 			      <img src="/docs/pictures/proj-2022-ddlitlab-StudyToolkitVid.jpg" class="img-fluid img-thumbnail" alt="StudyToolkitVid">
-			    	Our student research project "StudyToolkitVid", a toolkit to study human perception of video material. Mentored by Prof. Dr. Timo Baumann got funded by the DDLitLab for 10,000€ :D
+			    	Following our student research project "StudyToolkitVid", a toolkit to study human perception of video material mentored by Prof. Dr. Timo Baumann, we aim to publish our results at KONVENS 2024. 
 		    	</td>
-			  </tr>
-			  
-			  <tr>
-		      <td class="w-25" rowspan="3">
-			      <img src="/docs/pictures/proj-2018-university-woodmath.jpg" class="img-fluid img-thumbnail" alt="WoodenMath">
-		      </td>
-		      <td>Wooden Math</td>
-		    </tr>
-		      <tr>
-			    <td>2018</td>
-			  </tr>
-			  <tr>
-			    <td>In the second semester of studying computer science, two friends and I decided to have a little fun with our math tutor at the time and carved our assignment onto wood, painted it white, and then added black for better readability :D</td>
 			  </tr>
 			  
 			  <tr>
@@ -124,7 +91,7 @@ title: Projects
 			    <td>Nov. 2017 - ongoing</td>
 			  </tr>
 			  <tr>
-			    <td>Together with a dear friend (Domi), I designed and created the card game Crazy Deck. This took place over the entire time of us studying computer science at the university of Hamburg and will hopefully continue at some point when we find some free time again! :D</td>
+			    <td>Together with dear friends (Domi and Christian), who designed the card game Crazy Deck, we are now creating and expanding to a diginal version, starting with a web-based prototype (website upcoming). </td>
 			  </tr>
 
 		  </tbody>
