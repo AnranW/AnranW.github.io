@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 title:            Anran Wang's Personal Page # Site title
 name:             Anran Wang              # Your name
 affiliation:      Technical University of Munich              # Your name
-avatar:           /docs/pictures/profileimage.png   # Path to an avatar image
+avatar:           /docs/pictures/profileimage-square.png   # Path to an avatar image
 author:           Anran Wang
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
