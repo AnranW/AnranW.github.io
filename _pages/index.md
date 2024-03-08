@@ -9,9 +9,9 @@ title: Welcome to Anran Wang's Personal Page
 
 [More about me.]({{ site.baseurl}}{% link _pages/about.md %})
 
-<hr />
+<!-- <hr /> -->
 
-### Recent Posts
+<!-- ### Recent Posts -->
 <!-- 
 {% for post in site.posts limit:2 %}
 {% include components/post-card.html %}
