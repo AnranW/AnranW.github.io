@@ -22,7 +22,7 @@ Publications in reversed chronological order in two categories:
 </div>
 
 <!-- **CRAMT: Cross-Lingual Resource Aggregation of Low-Resource Machine Translation and Metadata** (Submitted)    -->
-**Double Blind Submission to LREC-COLING's Workshop** (Submitted)
+**Double Blind Submission to LREC-COLING's Workshop** (Submitted)   
 Christian Schuler, Tramy Thi Tran, Deepesha Saurty, <u> Anran Wang </u>, Raman Ahmad, Seid Muhie Yimam   
 
 
