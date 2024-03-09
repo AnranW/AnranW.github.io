@@ -17,7 +17,7 @@ Publications in reversed chronological order in two categories:
 ---
 ### NLP
 
-<div align="center" style="background-color:mediumseagreen" id="main">
+<div align="center" style="background-color:pink-dark" id="main">
 		<b>2024</b>
 </div>
 
