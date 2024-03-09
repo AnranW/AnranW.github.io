@@ -1,7 +1,7 @@
 ---
 layout: defaults/page
 permalink: events.html
-narrow: false
+narrow: true
 title: Events
 ---
 

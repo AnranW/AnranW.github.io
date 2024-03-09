@@ -1,7 +1,7 @@
 ---
 layout: defaults/page
 permalink: talks.html
-narrow: false
+narrow: true
 title: Talks
 ---
 

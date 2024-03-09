@@ -1,7 +1,7 @@
 ---
 layout: defaults/page
 permalink: projects.html
-narrow: false
+narrow: true
 title: Projects
 ---
 

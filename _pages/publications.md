@@ -1,7 +1,7 @@
 ---
 layout: defaults/page
 permalink: publications.html
-narrow: false
+narrow: true
 show_profile: true
 title: Publications
 ---

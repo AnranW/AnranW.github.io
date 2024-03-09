@@ -1,7 +1,7 @@
 ---
 layout: defaults/page
 permalink: teaching.html
-narrow: false
+narrow: true
 title: Teaching
 ---
 

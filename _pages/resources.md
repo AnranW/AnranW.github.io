@@ -1,7 +1,7 @@
 ---
 layout: defaults/resources_temp
 permalink: resources.html
-narrow: false
+narrow: true
 title: Resources
 show_profile: false
 ---

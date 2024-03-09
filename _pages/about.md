@@ -1,7 +1,7 @@
 ---
 layout: defaults/page
 permalink: about.html
-narrow: false
+narrow: true
 ---
 
 {% include components/intro.md %}
