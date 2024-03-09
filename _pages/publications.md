@@ -17,7 +17,7 @@ Publications in reversed chronological order in two categories:
 ---
 ### NLP
 
-<div align="center" style="background-color:pink-dark" id="main">
+<div align="center" style="background-color:#ca5584" id="main">
 		<b>2024</b>
 </div>
 
@@ -34,7 +34,7 @@ Shravan Nayak, <u>Christian Schuler</u>, Debjoy Saha and Timo Baumann
 ---
 ### Formal Methods
 
-<div align="center" style="background-color:mediumseagreen" id="main">
+<div align="center" style="background-color:#ca5584" id="main">
 		<b>2024</b>
 </div>
 
