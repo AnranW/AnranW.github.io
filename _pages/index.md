@@ -1,7 +1,7 @@
 ---
 layout: defaults/page
 permalink: index.html
-narrow: true
+narrow: false
 title: Welcome to Anran Wang's Personal Page
 ---
 
