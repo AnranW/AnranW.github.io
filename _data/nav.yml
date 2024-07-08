@@ -4,11 +4,14 @@
 - title: About
   href: about.html
 
+  - title: CV
+  href: dv.html
+
 - title: Projects
   href: projects.html
 
-- title: Publications
-  href: publications.html
+# - title: Publications
+#   href: publications.html
 
 - title: Events
   href: events.html
