@@ -7,14 +7,14 @@
 # - title: CV
 # href: cv.html
 
-# - title: Projects
-#   href: projects.html
+- title: Projects
+  href: projects.html
 
 # - title: Publications
 #   href: publications.html
 
-# - title: Events
-#   href: events.html
+- title: Events
+  href: events.html
 
 # - title: Teaching
 #   href: teaching.html
