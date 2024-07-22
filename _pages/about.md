@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: about.html
 narrow: true
-title: About
+title: Test
 ---
 
 {% include components/intro.md %}

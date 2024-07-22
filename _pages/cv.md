@@ -5,8 +5,6 @@ narrow: true
 title: CV
 ---
 
-{% include components/intro.md %}
-
 <!-- Comment -->
 
 
