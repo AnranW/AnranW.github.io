@@ -2,6 +2,7 @@
 layout: defaults/page
 permalink: about.html
 narrow: true
+title: CV
 ---
 
 {% include components/intro.md %}
