@@ -4,8 +4,8 @@
 - title: About
   href: about.html
 
-# - title: CV
-# href: cv.html
+- title: CV
+href: about.html
 
 - title: Projects
   href: projects.html
