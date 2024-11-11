@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 # Config for your profile.
 title:            Anran Wang's Personal Page # Site title
 name:             Anran Wang              # Your name
-affiliation:      Technical University of Munich              # Your name
+affiliation:      Saarland University              # Your name
 avatar:           /docs/pictures/profileimage-square.png   # Path to an avatar image
 author:           Anran Wang
 # The theme uses the baseurl throughout, which is useful for running the entire
